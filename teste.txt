@@ -1,3 +1,4 @@
 ola, bom dia!
 isso eh um teste para o github
 aprendendo no curso da Alura...
+Estou aprendendo GitHub e Git
